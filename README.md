@@ -7,6 +7,9 @@
 * [easypay.network](https://easypay.network) - a web-site/dapp that clearly shows how you can work with EasyPay Network.
 * [github.com/easypay-network](https://github.com/easypay-network) - github project repository, which contains all the developments of this project during **Hackathon 2023**.
 
+<blockquote style="font-style: italic;"> We want to emphasize that the code developed for the hackathon was a rapid prototype, created with a focus on showcasing the concept. While it effectively served its purpose for the hackathon, it should be noted that it is not intended for production use. It was a quick and functional demonstration of our ideas, and as we move forward, we will build a production-ready solution from the ground up.
+</blockquote>
+
 ## Content
 * [Content](#Content)
 * [Interface](#Interface)
@@ -75,7 +78,7 @@ PAYMENT TOKEN SELECTION              |REQUIREMENTS                         |  PR
 
 ## Repositories
 
-* [easypay-network/HYPERDRIVE-2023](https://github.com/easypay-network/HYPERDRIVE-2023) - EasyPay Network project root documentation repository
+* [easypay-network/AEZ-BOOST-2023](https://github.com/easypay-network/AEZ-BOOST-2023) - EasyPay Network project root documentation repository
 * [easypay-network/hackathon-frontend](https://github.com/easypay-network/hackathon-frontend) - dApp for interacting with our EasyPay Network Payment System.
 * [easypay-network/hackathon-server](https://github.com/easypay-network/hackathon-server) - CosmWasm Inter-blockchain protocol implementation
 * [easypay-network/hackathon-database](https://github.com/easypay-network/hackathon-database) - cypher scripts for neo4j database
